@@ -497,15 +497,6 @@ select:focus,
 select:active {
   outline: none; }
 
-html {
-  font-size: 10px;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
-
-body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 1.3rem;
-  line-height: 1.8rem; }
-
 button,
 input,
 optgroup,
@@ -9848,7 +9839,7 @@ label + .sd-radio {
   .dropdown__menu li a:not(.btn), .dropdown__menu li button:not(.btn):not(.dropdown__menu-close):not(.toggle-button), .dropdown__menu .dropdown__menu-item a:not(.btn), .dropdown__menu .dropdown__menu-item button:not(.btn):not(.dropdown__menu-close):not(.toggle-button) {
     display: block;
     font-weight: normal;
-    line-height: 1.8rem;
+    line-height: 140%;
     white-space: nowrap;
     width: 100%;
     min-width: 200px;
