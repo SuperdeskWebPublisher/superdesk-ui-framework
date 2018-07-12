@@ -1,4 +1,4 @@
-# Superdesk UI Framework
+# Superdesk UI Framework - css non conflicting version for livesite manager
 
 ### Status
 [![Build Status](https://travis-ci.org/superdesk/superdesk-client-core.svg?branch=master)](https://travis-ci.org/superdesk/superdesk-ui-framework)
@@ -25,7 +25,7 @@ To use it in your angular-app you should add the module (modules)
 
 ```
 angular.module('application', ['superdesk-ui'])
-``` 
+```
 
 ### Contributing
 1. Fork repo https://github.com/superdesk/superdesk-ui-framework

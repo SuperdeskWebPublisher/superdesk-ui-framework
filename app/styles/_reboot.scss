@@ -24,21 +24,21 @@ select:active {
 }
 
 // Body reset
-html {
-  font-size: 10px;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
+// html {
+//   font-size: 10px;
+//   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+// }
 
-$baseFontSize: 1.3rem;
-$baseFontFamily: "Roboto", Helvetica, Arial, sans-serif;
-$baseLineHeight: 1.8rem;
-$altFontFamily: Georgia, "Times New Roman", Times, serif;
+// $baseFontSize: 1.3rem;
+// $baseFontFamily: "Roboto", Helvetica, Arial, sans-serif;
+// $baseLineHeight: 1.8rem;
+// $altFontFamily: Georgia, "Times New Roman", Times, serif;
 
-body {
-  font-family: $baseFontFamily;
-  font-size: $baseFontSize;
-  line-height: $baseLineHeight;
-}
+// body {
+//   font-family: $baseFontFamily;
+//   font-size: $baseFontSize;
+//   line-height: $baseLineHeight;
+// }
 
 button,
 input,
